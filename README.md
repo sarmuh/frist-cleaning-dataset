@@ -1,6 +1,6 @@
-Loyiha maqsadi: ""
+Loyiha maqsadi: "null"
 
-Bajarilgan ishlar: "Bo'sh qiymatlar o'chirildi, ustun nomlari standart holatga keltirildi."
+Bajarilgan ishlar: "null"
 
 ![Status](https://img.shields.io/badge/Status-Learning-green)
 ![Topic](https://img.shields.io/badge/Success-70%25%20Cleaning-orange)
